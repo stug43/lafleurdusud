@@ -6,5 +6,7 @@ Pour l'instant c'est pas top niveau design mais tout est modulable.<br>
 Je suis un peu occupé en ce moment mais j'ai pris 2 heures hier et 3 ce soir pour te faire ça<br>
 parce que ça fait plusieurs fois que je passe trop longtemps à essayer mais à chaque fois je fais un truc moche.<br>
 Dans tous les cas, il faut : <ol><li>Qu'on se fasse un Mcdo</li><li>Qu'on se capte quelques heures pour discuter en détail de tout ça</li>
-<li>Et enfin qu'on devienne f*cking riches pour pouvoir se payer un petit voyage OKLM</li></ol><br>
+<li>Et enfin qu'on devienne f*cking riches pour pouvoir se payer un petit voyage OKLM</li></ol>
 Bwef, tout cela étant dit, je vais me coucher pck il est tart zebi !</p>
+<p>Sinon pour voir ce que ça donne c'est <b><a href="https://stug43.github.io/lafleurdusud">ICI</a></b>, et fais pas trop gaffe à<br>
+la page contact elle est pas vraiment finie</p>
